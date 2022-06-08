@@ -7,8 +7,8 @@ Olá! Tiago Alcantara aqui, prazer!
 
 <div align="center">
   <a href="https://github.com/Ap0c-dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ap0c-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ap0c-dev&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ap0c-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ap0c-dev&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
   <div style="display: inline_block"><br>
