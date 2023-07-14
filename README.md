@@ -15,7 +15,7 @@ Olá! Tiago Alcantara aqui, prazer!
   <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
-  ##
+  #
   
   <div> 
   <a href="https://api.whatsapp.com/send?phone=5534998782387&text=Ol%C3%A1%20que%20bom%20que%20entrou%20em%20contato%20comigo%2C%20responderei%20assim%20que%20poss%C3%ADvel.%20" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
